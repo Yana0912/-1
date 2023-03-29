@@ -1,0 +1,122 @@
+  .main-menu{
+    width: 1000px;
+    list-style: none;
+    padding: 0;
+    font-size: 24px;
+    margin: 0 auto;
+} 
+ .main-menu li{
+     display: block; 
+    
+    float: left; 
+    
+} 
+.main-menu a{
+    color: white;
+    background: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+    margin: 0;
+    outline: none;
+   
+}
+.main-menu a:hover{
+    background: #6f6f6f;
+} 
+header {
+    background-color:#000000; 
+    height:150px;
+}
+header p {
+    color: rgb(255, 255, 255);
+}
+main P { text-align: center }
+H1 { text-align: center }
+h2 {
+    color:rgb(99, 99, 245)
+    font-family:  Georgia, "Times New Roman", serif;
+}
+
+article a {
+    color: rgb(51, 139, 191);
+}
+main {
+    display: flex;
+}
+aside {
+    
+    border:2px solid #555;
+    box-shadow:8px 8px 10px #cccccc;
+     width: 1900px; text-align:center;
+       margin:70px; padding: 70px;
+   
+}
+aside div {
+    display: flex;
+}
+.comment {
+    margin-bottom: 10px;
+    background-color: rgb(221, 219, 219);
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+footer {
+    background-color: #000000;
+}
+footer p {
+    color:rgb(255, 255, 255)
+}
+
+h6 {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+}
+footer {
+    display: flex; 
+}
+footer p{
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 20pt;
+}
+.comment p {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 20pt;
+}
+h7 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 180%;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+     font-size: 200%;
+}
+aside p {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 20pt;
+}
+items a {
+    color: rgb(0, 0, 0);
+}
+article p {
+    font-family: Verdana, Arial, Helvetica, sans-serif;  
+    font-size: 30pt;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+}
+footer {
+    display: flex; 
+}
+footer img {
+    width: 100px
+}
+block {
+    display: flex;
+
+}
+block img {
+    width: 1000px;
+}
